@@ -4,7 +4,7 @@
 <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/f8c86e59-faa4-4b4d-b793-9602c86e77ab" />
 
 ## Scematic:
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/d3664abc-788e-4f26-8972-7c5017d439e3" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/d3664abc-788e-4f26-8972-7c5017d439e3" />
 
 ## PCB:
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cfcdde-35dc-4033-8e1a-f54bf47c7c1a" />
